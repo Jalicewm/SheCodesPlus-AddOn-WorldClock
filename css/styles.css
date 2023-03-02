@@ -55,18 +55,8 @@ select {
   font-weight: bold;
 }
 
-.time small {
-  font-size: 24px;
-  vertical-align: middle;
-  line-height: 48px;
-}
-
-/*What does this one go to?*/
-
 footer {
   text-align: center;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
 }
-
-/*https://palettes.shecodes.io/palettes/1246*/
