@@ -1,0 +1,72 @@
+body {
+  background-color: #eeeeee;
+  font-family: "Times New Roman", Times, serif;
+  color: #301934;
+  font-size: 36px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  margin: 0 0 5px;
+  font-size: 36px;
+}
+
+select {
+  display: block;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #b19cd9;
+  color: #301934;
+}
+
+.container {
+  max-width: 600px;
+  margin: 60px auto;
+  background-color: #cbc3e3;
+  padding: 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+.city {
+  display: flex;
+  margin: 10px 0;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+  border-bottom: 2px dashed rgba(0, 0, 0, 0.2);
+}
+
+.city:last-child {
+  border: none;
+}
+
+.date {
+  opacity: 0.7;
+}
+
+.time {
+  font-weight: bold;
+}
+
+.time small {
+  font-size: 24px;
+  vertical-align: middle;
+  line-height: 48px;
+}
+
+/*What does this one go to?*/
+
+footer {
+  text-align: center;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/*https://palettes.shecodes.io/palettes/1246*/
