@@ -58,6 +58,7 @@ select {
 
 .time {
   font-weight: bold;
+  min-width: 210px;
 }
 
 footer {
